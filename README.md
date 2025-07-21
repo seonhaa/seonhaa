@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <div class="header" align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm SeonHaa&fontSize=90&desc= Dream of a developer&descAlignY=80&fontColor= #000000" />
+</div>
 
   <h3 align="center">✨ Tech Stack ✨</h3>
   <div align="center">
@@ -85,5 +86,5 @@ Here are some ideas to get you started:
         src="https://img.shields.io/badge/jhh8210@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
     </a>
   </div>
-</div>
+
 
