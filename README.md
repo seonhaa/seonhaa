@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="header" align="center">
+<div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm SeonHaa&fontSize=90&desc= Dream of a developer&descAlignY=80&fontColor= #000000" />
+    src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20SeonHaa&fontSize=90&desc=Dream%20of%20a%20developer&descAlignY=80&fontColor=000000" />
 </div>
+
 
   <h3 align="center">✨ Tech Stack ✨</h3>
   <div align="center">
